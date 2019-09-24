@@ -1,6 +1,6 @@
 ---
-layout:post
-title: Ebook Release: The Valley of Fear
+layout: post
+title: Ebook Release - The Valley of Fear
 ---
 
 My first contribution to the [Standard Ebooks](https://standardebooks.org/) project has been released.
