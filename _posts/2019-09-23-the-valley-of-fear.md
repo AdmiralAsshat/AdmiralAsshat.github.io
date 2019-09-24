@@ -7,7 +7,7 @@ My first contribution to the [Standard Ebooks](https://standardebooks.org/) proj
 
 Book:[Arthur Conan Doyle - The Valley of Fear](https://standardebooks.org/ebooks/arthur-conan-doyle/the-valley-of-fear)
 
-Repo: https://github.com/standardebooks/arthur-conan-doyle_the-valley-of-fear
+Repo: [GitHub](https://github.com/standardebooks/arthur-conan-doyle_the-valley-of-fear)
 
 I had no particular investment in this book, but it was something easy to start with. I learned a great deal over the process of producing it. It's an exciting time to be on the project as new works start to enter the public domain for the first time in years. Hopefully my next production will require less hand-holding.
 
